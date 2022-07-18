@@ -1,5 +1,4 @@
-
-<img class="stnd skip-lazy default-logo" width="991.8" height="157.3" alt="RISC-V International" src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" srcset="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg 1x, https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg 2x">
+https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg
 #####################################
 **RISC-V ISA Coverage** : RISC-V ISAC 
 #####################################
